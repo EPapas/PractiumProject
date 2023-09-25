@@ -1,0 +1,2 @@
+C:\Users\epaps\source\repos\PractiumProject\PractiumProject\obj\Debug\practiumproject.esproj.SuggestedBindingRedirects.cache
+C:\Users\epaps\source\repos\PractiumProject\PractiumProject\obj\Debug\practiumproject.esproj.CoreCompileInputs.cache
